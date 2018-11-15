@@ -44,14 +44,14 @@ main article section
   border-radius: 50%;
   margin: 7px 0px 0px 16px;
 }
-main div
+/*main div
 {
   width: 200px;
   height: 200px;
   background-color: gray;
   display: inline-block;
   margin: 60px -266px 0px 310px;
-}
+}*/
 main div section
 {
   width: 177px;
@@ -71,7 +71,7 @@ main aside
 main aside div 
 {
   width: 200px;
-  height: 340px;
+  height: 348px;
   background-color: rgba(255, 94, 0, 0.95);
   display: inline-block;
   margin: 61px -80px 0px 110px;
@@ -79,7 +79,7 @@ main aside div
 main aside div section
 {
   width: 90px;
-  height: 80px;
+  height: 93px;
   background-color: gray;
   border-radius: 0%;
   margin: 20px 20px 0px 55px;
@@ -99,4 +99,139 @@ main aside div footer
   border-radius: 50%;
   margin: 20px 20px 0px 65px; 
 }
-
+section
+{
+  background-color: red;
+  width: 1200px;
+  height: 1501px;
+  margin: 40px auto 0px 50px;
+}
+section aside
+{
+  width: 555px;
+  height: 475px;
+  background-color: green;
+  display: inline-block;
+  margin: 49px -10px 0px 31px;
+}
+section aside div
+{
+  width: 237px;
+  height: 217px;
+  background-color: #0400FF;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 15px -17px -10px 31px;
+}
+section main
+{
+  width: 596px;
+  height: 325px;
+  background-color: black;
+  margin: 75px 0px 0px 304px;
+}
+section main nav
+{
+  width: 269px;
+  height: 269px;
+  background-color: white;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 28px -23px -10px 31px;
+}
+section footer
+{
+  width: 1142px;
+  height: 469px;
+  margin: 75px 0px 0px 34px;
+}
+section footer a
+{
+  background-color: #00B7FF;
+  width: 223px;
+  height: 364px;
+  display: inline-block;
+  margin: 50px 1px 0px 21px;
+}
+section footer a div
+{
+  width: 202px;
+  height: 320px;
+  background-color: yellow;
+  border-radius: 45%;
+  margin: 21px 0px 0px 11px;
+}
+section footer div
+{
+  background-color: #E100FF;
+  width: 343px;
+  height: 337px;
+  display: inline-block;
+  margin: 0px 0px 0px 15px;
+}
+section footer div article
+{
+  background-color: #913143;
+  width: 139px;
+  height: 148px;
+  border-radius: 50%;
+  display: inline-block;  
+  margin: 9px 10px -4px 19px;
+}
+article
+{
+  background-color: #00FFEA;
+  width: 1200px;
+  height: 1501px;
+  margin: 40px auto 0px 50px;
+}
+article nav
+{
+  background-color: black;
+  width: 548px;
+  height: 522px;
+  display: inline-block;  
+  margin: 29px -3px 0px 34px;
+}
+article nav aside
+{
+  background-color: white;
+  width: 518px;
+  height: 484px;
+  display: inline-block;  
+  margin: 15px 130px 0px 15px;
+}
+article nav aside main
+{
+  background-color: yellow;
+  width: 468px;
+  height: 443px;
+  display: inline-block;
+  margin: 24px 20px 20px 20px;
+}
+article nav aside main section
+{
+  background-color: #15FF00;
+  width: 132px;
+  height: 193px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 14px 4px 11px 15px;
+}
+article nav aside main footer
+{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+}
+article nav aside main div
+{
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 10px 10px 10px 10px;
+}
