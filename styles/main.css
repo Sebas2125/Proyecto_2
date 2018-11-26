@@ -20,14 +20,14 @@ nav ul li a{
 .active{
   background-color: blueviolet;
 }
-main
+.pagina1 main
 {
   background-color: green;
   width: 1200px;
   height: 1230px;
   margin: 40px auto 0px 50px;
 }
-main article
+.pagina1 main article
 {
   width: 300px;
   height: 280px;
@@ -35,7 +35,7 @@ main article
   display: inline-block;
   margin: 61px -80px 0px 110px;
 }
-main article section
+.pagina1 main article section
 {
   width: 270px;
   height: 260px;
@@ -44,7 +44,7 @@ main article section
   border-radius: 50%;
   margin: 7px 0px 0px 16px;
 }
-main div
+.pagina1 main div
 {
   width: 200px;
   height: 200px;
@@ -52,7 +52,7 @@ main div
   display: inline-block;
   margin: 60px -266px 0px 310px;
 }
-main div section
+.pagina1 main div section
 {
   width: 177px;
   height: 174px;
@@ -61,14 +61,14 @@ main div section
   border-radius: 50%;
   margin: 10px 0px 0px 15px;
 }
-main aside 
+.pagina1 main aside 
 {
   width: 845px;
   height: 450px;
   background-color: yellow;
   margin: 50px -144px 0px 120px;
 }
-main aside div 
+.pagina1 main aside div 
 {
   width: 200px;
   height: 348px;
@@ -76,7 +76,7 @@ main aside div
   display: inline-block;
   margin: 61px -80px 0px 110px;
 }
-main aside div section
+.pagina1 main aside div section
 {
   width: 90px;
   height: 93px;
@@ -84,14 +84,14 @@ main aside div section
   border-radius: 0%;
   margin: 20px 20px 0px 55px;
 }
-main aside div nav
+.pagina1 main aside div nav
 {
   width: 104px;
   height: 285px;
   border-radius: 54%;
   margin: 22px 20px 0px 55px;
 }
-main aside div footer
+.pagina1 main aside div footer
 {
   width: 86px;
   height: 82px;
@@ -99,14 +99,14 @@ main aside div footer
   border-radius: 50%;
   margin: 20px 20px 0px 65px; 
 }
-section
+.pagina2 section
 {
   background-color: red;
   width: 1200px;
   height: 1501px;
   margin: 40px auto 0px 50px;
 }
-section aside
+.pagina2 section aside
 {
   width: 555px;
   height: 475px;
@@ -114,7 +114,7 @@ section aside
   display: inline-block;
   margin: 49px -10px 0px 31px;
 }
-section aside div
+.pagina2 section aside div
 {
   width: 237px;
   height: 217px;
@@ -123,14 +123,14 @@ section aside div
   border-radius: 50%;
   margin: 15px -17px -10px 31px;
 }
-section main
+.pagina2 section main
 {
   width: 596px;
   height: 325px;
   background-color: black;
   margin: 75px 0px 0px 304px;
 }
-section main nav
+.pagina2 section main nav
 {
   width: 269px;
   height: 269px;
@@ -139,13 +139,13 @@ section main nav
   border-radius: 50%;
   margin: 28px -23px -10px 31px;
 }
-section footer
+.pagina2 section footer
 {
   width: 1142px;
   height: 469px;
   margin: 75px 0px 0px 34px;
 }
-section footer a
+.pagina2 section footer a
 {
   background-color: #00B7FF;
   width: 223px;
@@ -153,7 +153,7 @@ section footer a
   display: inline-block;
   margin: 50px 1px 0px 21px;
 }
-section footer a div
+.pagina2 section footer a div
 {
   width: 202px;
   height: 320px;
@@ -161,7 +161,7 @@ section footer a div
   border-radius: 45%;
   margin: 21px 0px 0px 11px;
 }
-section footer div
+.pagina2 section footer div
 {
   background-color: #E100FF;
   width: 343px;
@@ -169,7 +169,7 @@ section footer div
   display: inline-block;
   margin: 0px 0px 0px 15px;
 }
-section footer div article
+.pagina2 section footer div article
 {
   background-color: #913143;
   width: 139px;
@@ -178,14 +178,14 @@ section footer div article
   display: inline-block;  
   margin: 9px 10px -4px 19px;
 }
-article
+.pagina3 article
 {
   background-color: #00FFEA;
   width: 1200px;
   height: 1501px;
   margin: 40px auto 0px 50px;
 }
-article nav
+.pagina3 article nav
 {
   background-color: black;
   width: 548px;
@@ -193,7 +193,7 @@ article nav
   display: inline-block;  
   margin: 29px -3px 0px 34px;
 }
-article nav aside
+.pagina3 article nav aside
 {
   background-color: white;
   width: 518px;
@@ -201,7 +201,7 @@ article nav aside
   display: inline-block;  
   margin: 15px 130px 0px 15px;
 }
-article nav aside main
+.pagina3 article nav aside main
 {
   background-color: yellow;
   width: 468px;
@@ -209,7 +209,7 @@ article nav aside main
   display: inline-block;
   margin: 24px 20px 20px 20px;
 }
-article nav aside main section
+.pagina3 article nav aside main section
 {
   background-color: #15FF00;
   width: 132px;
@@ -218,7 +218,7 @@ article nav aside main section
   border-radius: 50%;
   margin: 14px 4px 11px 15px;
 }
-article nav aside main footer
+.pagina3 article nav aside main footer
 {
   background-color: blue;
   width: 136px;
@@ -226,7 +226,7 @@ article nav aside main footer
   display: inline-block;
   margin: 10px 10px 10px 10px;
 }
-article nav aside main div
+.pagina3 article nav aside main div
 {
   background-color: blueviolet;
   width: 100px;
@@ -235,7 +235,7 @@ article nav aside main div
   border-radius: 50%;
   margin: 10px 10px 10px 10px;
 }
-article main
+.pagina3 article main
 {
   background-color:black;
   width: 1131px;
@@ -243,7 +243,7 @@ article main
   margin: 10px 10px 10px 34px;
   display: inline-block;
 }
-article main footer
+.pagina3 article main footer
 {
   background-color: white;
   width: 1106px;
@@ -251,7 +251,7 @@ article main footer
   margin: 10px 10px 10px 10px;
   display: inline-block;
 }
-article main footer div
+.pagina3 article main footer div
 {
   background-color: yellow;
   width: 432px;
@@ -259,7 +259,7 @@ article main footer div
   margin: 10px 10px 10px 10px;
   display: inline-block;
 }
-article main footer div section
+.pagina3 article main footer div section
 {
   background-color: green;
   width: 181px;
@@ -268,7 +268,7 @@ article main footer div section
   border-radius: 50%;
   margin: 10px 14px 10px 19px;
 }
-article main footer aside
+.pagina3 article main footer aside
 {
   background-color: yellow;
   width: 388px;
@@ -276,7 +276,7 @@ article main footer aside
   display: inline-block;
   margin: 10px 10px 10px 0px;
 }
-article main footer aside div
+.pagina3 article main footer aside div
 {
   background-color: green;
   width: 368px;
@@ -284,7 +284,7 @@ article main footer aside div
   border-radius: 50%;
   margin: 10px 10px 10px 10px;
 }
-article main footer article 
+.pagina3 article main footer article 
 {
   background-color: yellow;
   width: 228px;
@@ -292,7 +292,7 @@ article main footer article
   display: inline-block;
   margin: 10px 10px 10px 10px;
 }
-article main footer article nav
+.pagina3 article main footer article nav
 {
   background-color: green;
   width: 204px;
@@ -301,7 +301,7 @@ article main footer article nav
   border-radius: 580%;
   margin: 10px 10px 10px 10px;
 }
-article div 
+.pagina3 article div 
 {
   background-color: black;
   width: 1131px;
@@ -309,7 +309,7 @@ article div
   margin: 10px 10px 10px 34px;
   display: inline-block;
 }
-article div footer
+.pagina3 article div footer
 {
   background-color: white;
   width: 1106px;
@@ -317,7 +317,7 @@ article div footer
   margin: 10px 10px 10px 10px;
   display: inline-block;
 }
-article div footer main
+.pagina3 article div footer main
 {
   background-color: yellow;
   width: 1084px;
@@ -325,7 +325,7 @@ article div footer main
   margin: 10px 10px 10px 10px;
   display: inline-block;
 }
-article div footer main aside
+.pagina3 article div footer main aside
 {
   background-color: green;
   width: 1062px;
@@ -333,7 +333,7 @@ article div footer main aside
   margin: 10px 10px 10px 10px;
   display: inline-block;
 }
-article div footer main aside nav
+.pagina3 article div footer main aside nav
 {
   background-color: blue;
   width: 160px;
@@ -341,4 +341,679 @@ article div footer main aside nav
   margin: 88px 10px 10px 34px;
   display: inline-block;
   border-radius: 580%;  
+}
+.pagina4 aside
+{
+  background-color: rgb(13, 245, 195);
+  width: 1300px;
+  height: 1400px;
+}
+.pagina4 aside footer
+{
+  width: 1270px;
+  height:400px;
+  margin: 40px 40px 0px 40px;
+  display: inline-block;
+}
+.pagina4 aside footer main
+{
+  background-color: rgb(222, 247, 0);
+  width: 175px;
+  height:400px;
+  margin:  0px 10px 0px 14px;
+  display: inline-block;
+}
+.pagina4 aside footer main h1
+{
+  width: 150px;
+  height: 150px;
+  background-color: rgb(0, 217, 255);
+  border-radius: 50%;
+  margin: 35px 0px 20px 13px;
+}
+.pagina4 aside footer main div
+{
+  width: 150px;
+  height: 300px;
+  background-color: rgb(43, 255, 0);
+  border-radius: 45%;
+  margin: 35px 0px 10px 20px;
+}
+.pagina4 aside footer article
+{
+  background-color: rgb(222, 247, 0);
+  width: 400px;
+  height:400px;
+  margin:  0px 10px 0px 10px;
+  display: inline-block;
+}
+.pagina4 aside footer aside
+{
+  background-color: rgb(247, 0, 0);
+  width: 800px;
+  height:400px;
+  margin:  0px 10px 0px 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+.pagina4 aside footer aside h1
+{
+  background-color: rgb(247, 169, 0);
+  width: 700px;
+  height:300px;
+  margin:  50px 0px 0px 50px;
+}
+.pagina4 aside footer aside h1 div
+{
+  background-color: rgb(255, 255, 255);
+  width: 600px;
+  height:200px;
+  margin:  50px 0px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside footer aside h1 div nav
+{
+  background-color: rgb(0, 17, 255);
+  width: 150px;
+  height:150px;
+  margin:  24px 0px 0px 40px;
+  display: inline-block;
+}
+.pagina4 aside footer aside h1 div nav aside
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 204, 255);
+  border-radius: 50%;
+  margin: 20px 0px 0px 5px;
+  display: inline-block
+}
+.pagina4 aside footer article h1
+{
+  width: 308px;
+  height: 100px;
+  background-color: rgb(255, 0, 0);
+  margin: 40px 0px 0px 40px;
+  display: inline-block;
+}
+.pagina4 aside footer article div
+{
+  width: 140px;
+  height: 200px;
+  background-color: rgb(255, 0, 0);
+  margin: 20px -15px 0px 40px;
+  display: inline-block;
+}
+.pagina4 aside article
+{
+  background-color: rgb(222, 247, 0);
+  width: 370px;
+  height:400px;
+  margin:  40px -20px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside main
+{
+  background-color: rgb(222, 247, 0);
+  width: 450px;
+  height:400px;
+  margin:  40px -10px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside nav
+{
+  background-color: rgb(222, 247, 0);
+  width: 320px;
+  height:400px;
+  margin:  40px -20px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside article div
+{
+  background-color: rgb(0, 247, 62);
+  width: 300px;
+  height:330px;
+  margin:  30px -20px 0px 34px;
+  padding:  10px 0px 0px 0px;
+}
+.pagina4 aside article div h1
+{
+  background-color: rgb(74, 0, 247);
+  width: 250px;
+  height:125px;
+  margin:  10px -20px 50px 24px;
+  vertical-align: top;
+}
+.pagina4 aside article div aside
+{
+  background-color: rgb(74, 0, 247);
+  width: 250px;
+  height:125px;
+  margin:  10px -20px 0px 24px;
+  vertical-align: top;
+  border-radius: 50%;
+}
+.pagina4 aside main div
+{
+  background-color: rgb(0, 247, 62);
+  width: 380px;
+  height:330px;
+  margin:  30px -20px 0px 34px;
+  padding:  10px 0px 0px 0px;
+}
+.pagina4 aside main div h1
+{
+  background-color: rgb(74, 0, 247);
+  width: 320px;
+  height:125px;
+  margin:  10px -20px 35px 24px;
+  vertical-align: top;
+  border-radius: 50%;
+}
+.pagina4 aside main div aside
+{
+  background-color: rgb(74, 0, 247);
+  width: 320px;
+  height:125px;
+  margin:  10px -20px 0px 24px;
+  vertical-align: top;
+  
+}
+.page5{
+  background-color: #E64B24;
+  padding: 10px 10px 10px 10px;
+  width: 1400px;
+  height: 1500px;
+}
+.page5 main{
+  background-color: #17A6D6;
+  width: 400px;
+  margin: 10px 5px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main li{
+  background-color: #E6B224;
+  width: 150px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main li div{
+  width: 100px;
+  height: 100px;
+  background-color: #FFFFFF;
+  display: inline-block;
+  margin: 8px 10px 10px 30px;
+  border-radius: 50%;
+}
+.page5 main nav{
+  background-color: rgb(103, 20, 211);
+  width: 350px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main nav li{
+  width: 100px;
+  height: 100px;
+  background-color: #106F80;
+  display: inline-block;
+  margin: 30px 10px 10px 5px;
+  border-radius: 50%;
+}
+.page5 main section{
+  background-color: rgb(230, 145, 36);
+  width: 350px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main section div{
+  width: 100px;
+  height: 100px;
+  background-color: #0B912C;
+  display: inline-block;
+  margin: 0px 40px 1px 30px;
+  border-radius: 50%;
+}
+.page5 main section a{
+  background-color: #545ECC;
+  width: 110px;
+  height: 50px;
+  margin: 0px 10px 10px 100px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main section nav{
+  background-color: #810B71;
+  width: 300px;
+  height: 30px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h3{
+  background-color: rgb(3, 214, 56);
+  width: 150px;
+  height: 250px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h3 li{
+  width: 100px;
+  height: 100px;
+  background-color: #15A2AC;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+}
+
+.page5 main a{
+  background-color: #D3C71A;
+  width: 150px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main a ol{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 0, 0);
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.page5 main a div{
+  width: 100px;
+  height: 230px;
+  background-color: #0E8A6B;
+  display: inline-block;
+  margin: 5px 5px 10px 25px;
+  border-radius: 50%; 
+}
+
+.page5 footer{
+  background-color: rgb(218, 15, 120);
+  width: 1290px;
+  height: 250px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 footer article{
+  background-color: rgb(206, 18, 18);
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 footer article li{
+  width: 50px;
+  height: 50px;
+  background-color: #FFFB00;
+  display: inline-block;
+  margin: 30px 5px 10px 30px;
+  border-radius: 50%
+  
+}
+.page5 footer article a{
+  width: 110px;
+  height: 50px;
+  background-color: rgb(73, 209, 202);
+  display: inline-block;
+  margin: 0px 10px 0px 40px;
+  border-radius: 50%;
+}
+.page5 footer section{
+  background-color: #57CE12;
+  width: 700px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 footer section li{
+  background-color: #14CABB;
+  width: 650px;
+  height: 150px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 footer section li a{
+  width: 100px;
+  height: 100px;
+  background-color: #2B0725;
+  display: inline-block;
+  margin: 15px 5px 10px 85px;
+  border-radius: 50%
+}
+.page5 main h3 ol{
+  width: 100px;
+  height: 200px;
+  background-color: rgb(98, 15, 180);
+  display: inline-block;
+  margin: 5px 5px 10px 15px;
+  border-radius: 50%
+}
+.page5 main h4{
+  background-color: #DF5312;
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h4 div{
+  width: 100px;
+  height: 100px;
+  background-color: #F3F1F5;
+  display: inline-block;
+  margin: 50px 0px 10px 50px;
+  border-radius: 50%
+}
+.page5 main article{
+  background-color: #CA1423;
+  width: 100px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main article div{
+  width: 100px;
+  height: 160px;
+  background-color: rgb(75, 6, 143);
+  display: inline-block;
+  margin: 5px 10px 10px 0px;
+  border-radius: 50%
+}
+.page5 main nav ol{
+  width: 100px;
+  height: 100px;
+  background-color: #5F2905;
+  display: inline-block;
+  margin: 0px 10px 5px 15px;
+  border-radius: 50%
+}
+.page5 main h5{
+  background-color: rgb(18, 206, 43);
+  width: 350px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h5 li{
+  background-color: #4A12CE;
+  width: 300px;
+  height: 100px;
+  margin: 10px 10px 10px 20px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h5 li a{
+  width: 250px;
+  height: 80px;
+  background-color: rgb(235, 0, 98);
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+}
+.page5 main h5 a{
+  width: 60px;
+  height: 60px;
+  background-color: #3D1B09;
+  display: inline-block;
+  margin: 30px 10px 20px 130px;
+  border-radius: 50%
+}
+.page5 main h6{
+  background-color: #CE8312;
+  width: 100px;
+  height: 280px;
+  margin: 10px 100px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h6 a{
+  width: 50px;
+  height: 50px;
+  background-color: #5F2905;
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+}
+.page5 main h2{
+  background-color: #CE123B;
+  width: 100px;
+  height: 280px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6{
+  background-color: rgb(255, 251, 0);
+  padding: 10px 10px 10px 10px;
+  width: 1300px;
+  height: 1400px;
+}
+.page6 section{
+  background-color: rgb(0, 255, 0);
+  width: 250px;
+  height: 250px;
+  margin: 10px 10px 10px 30px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 section li{
+  width: 60px;
+  height: 60px;
+  background-color: #0DA5B9;
+  display: inline-block;
+  margin: 55px 8px 32px 40px;
+  border-radius: 50%;
+}
+.page6 section a{
+  background-color: rgb(175, 37, 3);
+  width: 25px;
+  height: 40px;
+  margin: auto -1px;
+  display: inline-block;
+  padding: 11px 16px 12px 41px;
+  vertical-align: top;
+}
+.page6 h2{
+  background-color: rgb(0, 202, 253);
+  width: 600px;
+  height: 250px;
+  margin: 10px 10px 10px 40px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h2 div{
+  background-color: #BE0D98;
+  width: 120px;
+  height: 120px;
+  margin: 50px 10px 10px 35px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h2 div li{
+  width: 100px;
+  height: 100px;
+  background-color: #E5F0F3;
+  display: inline-block;
+  margin: 0px 10px 10px 8px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3{
+  background-color: #E2BE1B;
+  width: 300px;
+  height: 400px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 ol{
+  width: 120px;
+  height: 120px;
+  background-color: #A5CF0C;
+  display: inline-block;
+  margin: 5px 10px 0px 90px;
+  border-radius: 50%;
+}
+.page6 h3 section{
+  width: 131px;
+  height: 50px;
+  background-color: #A013D3;
+  display: inline-block;
+  margin: 5px 10px 10px 78px;
+  border-radius: 50%;
+}
+.page6 h3 article{
+  background-color: rgb(21, 189, 29);
+  width: 250px;
+  height: 350px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 article li{
+  width: 140px;
+  height: 140px;
+  background-color: rgb(18, 22, 252);
+  display: inline-block;
+  margin: 5px 10px 10px 50px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3 div{
+  background-color: #09E0E7;
+  width: 200px;
+  height: 120px;
+  margin: 10px 10px 10px 40px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 div li{
+  width: 100px;
+  height: 100px;
+  background-color: #11F368;
+  display: inline-block;
+  margin: 10px 10px 10px 56px;
+  border-radius: 50%;
+}
+
+.page6 h3 nav{
+  background-color: #279B78;
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 40px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 nav a{
+  width: 70px;
+  height: 70px;
+  background-color: #19E6DC;
+  display: inline-block;
+  margin: 15px 10px 10px 38px;
+  border-radius: 50%;
+  
+}
+.page6 h4{
+  background-color: #D6C41E;
+  width: 250px;
+  height: 415px;
+  margin: 10px 10px 10px 2px;
+  display: inline-block;
+ 
+  vertical-align: top;
+}
+.page6 h4 div{
+  width: 200px;
+  height: 200px;
+  background-color: #389AC7;
+  display: inline-block;
+  margin: 80px 10px 10px 30px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 main{
+  background-color: #1CE051;
+  width: 1280px;
+  height: 620px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+
+}
+.page6 main section nav{
+  width: 50px;
+  height: 50px;
+  background-color: #FBFDFD;
+  display: inline-block;
+  margin: 50px 40px 10px 80px;
+  padding: 0px 50px 20px 0px;
+  border-radius: 50%;
+}
+.page6 main h4{
+  background-color: #EB2214;
+  width: 590px;
+  height: 250px;
+
+  margin: 10px 10px 10px 30px;
+  display: inline-block;
+}
+.page6 main h4 li{
+  background-color: #201716;
+  width: 500px;
+  height: 180px;
+ 
+  margin: 30px 10px 10px 30px;
+  display: inline-block;
+}
+.page6 main h4 li a{
+  width: 90px;
+  height: 90px;
+  background-color: #E418DA;
+  display: inline-block;
+  margin: 50px 5px 10px 54px;
+  border-radius: 50%;
 }
